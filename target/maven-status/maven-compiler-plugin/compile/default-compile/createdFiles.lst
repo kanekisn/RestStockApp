@@ -1,0 +1,9 @@
+org\reststockapp\config\JwtAuthenticationFilter.class
+org\reststockapp\RestStockApplication.class
+org\reststockapp\config\SecurityConfiguration.class
+org\reststockapp\model\User.class
+org\reststockapp\config\TransactionConfig.class
+org\reststockapp\model\StockData.class
+org\reststockapp\service\JwtService.class
+org\reststockapp\config\ApplicationConfiguration.class
+org\reststockapp\repository\UserRepository.class
